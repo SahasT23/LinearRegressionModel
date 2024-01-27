@@ -10,3 +10,5 @@ from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 
 from scipy import stats
 from scipy.stats import kurtosis, skew
+
+%matplotlib inline
